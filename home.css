@@ -1,0 +1,47 @@
+
+#logo
+{
+    width:200px;
+}
+
+p{
+    font-size: 15px;
+    text-align: left;
+}
+
+#address
+{
+    display: inline;
+    float: left;
+}
+
+.carousel-item
+{
+    width : 400px;
+    height : 700px;
+}
+
+.card-body
+{
+    height:300px;
+}
+
+.footer
+{
+ padding-top: 20px;
+ background-color:lightslategray;
+ color:paleturquoise;
+}
+
+#qlinks{
+    
+   color: whitesmoke;
+   text-decoration: none;
+   text-shadow: oldlace;
+}
+#dloads{  
+    
+    color:whitesmoke;
+    text-decoration: none;
+    text-shadow: oldlace;
+ }
